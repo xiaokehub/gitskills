@@ -2,11 +2,3 @@ master
 dev
 update by dev
 repair by bug1
-
-add some word
-add some word
-add some word
-
-add some word
-add some word
-add some word
